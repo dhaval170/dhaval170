@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **🔗 Perfex CRM 🔗**
 
-- 📝 I regularly write articles on [CRM & School Management🎯, Creativity 🧠, Server Management🕸️](CRM & School Management, Creativity, Server Management)
+- 📝 I regularly write articles on "CRM & School Management🎯, Creativity 🧠, Server Management🕸️"
 
 - 💬 Ask me about **🧑‍💻 Creativity, Front End, Wordpress..etc**
 
