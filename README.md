@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhaval Rathod</h1>
 <h3 align="center">"As a web designer 🍥, I blend creativity 🧠 and functionality to bring digital visions to life👨‍💻."</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaval170&label=Profile%20views&color=0e75b6&style=flat" alt="dhaval170" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhaval170" alt="dhaval170" /></a> </p>
-
-<img align="right"alt="creative" width="400" src="![image](https://github.com/dhaval170/dhaval170/assets/4401960/8fa6407d-648d-47ac-ab54-10b19ad1462e)">
+<img align="right" alt="creative" width="400" src="![image](https://github.com/dhaval170/dhaval170/assets/4401960/8fa6407d-648d-47ac-ab54-10b19ad1462e)">
 
 - 🔭 I’m currently working on **🌍 Myr.ai 🌍**
 
